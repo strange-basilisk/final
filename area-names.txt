@@ -1,0 +1,9 @@
+Deep Space,Area 1
+Silk Road Trading Route,Area 2
+Asteroid Mining Fields,Area 3
+Lawless Lands,Area 4
+Dying Sun P1075,Area 5
+Imperial Garrison,Area 6
+Battle For Freedom Graveyard,Area 7
+The Hive,Area 8
+Trading Guild Outpost,Area 9
